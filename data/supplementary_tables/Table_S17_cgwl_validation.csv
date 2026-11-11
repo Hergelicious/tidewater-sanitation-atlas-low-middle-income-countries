@@ -1,0 +1,9 @@
+set,obs_threshold_m,wells,flagged_pct,obs_shallow_pct,PPV,sensitivity,specificity,median_depth_flagged
+"CGWL, all",3,1281,19.5,31.6,0.65 (0.59 to 0.70),0.40 (0.35 to 0.45),0.90 (0.88 to 0.92),2.1
+"CGWL, all",5,1281,19.5,48.1,0.82 (0.76 to 0.86),0.33 (0.30 to 0.37),0.93 (0.91 to 0.95),2.1
+"CGWL, India",3,849,28.3,36.6,0.65 (0.58 to 0.70),0.50 (0.44 to 0.55),0.84 (0.81 to 0.87),2.1
+"CGWL, India",5,849,28.3,56.5,0.81 (0.75 to 0.85),0.40 (0.36 to 0.45),0.88 (0.84 to 0.91),2.1
+"CGWL, South Africa",3,432,2.3,21.8,0.70 (0.40 to 0.89),0.07 (0.04 to 0.15),0.99 (0.97 to 1.00),1.88
+"CGWL, South Africa",5,432,2.3,31.5,1.00 (0.72 to 1.00),0.07 (0.04 to 0.13),1.00 (0.99 to 1.00),1.88
+"CGWL, all, reference point assumed 0.5 m above ground",3,1281,19.5,36.3,0.72,0.38,0.91,1.6
+"CGWL, all, reference point assumed 1.0 m above ground",3,1281,19.5,41.3,0.78,0.37,0.93,1.1

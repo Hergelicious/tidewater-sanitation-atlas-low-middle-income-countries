@@ -1,0 +1,10 @@
+quantity,value
+"A. Coastal inundation only (same DEM, bathtub)",42.8
+B. Coastal and river flooding,71.5
+C. Potential groundwater contact only,93.1
+D. All three mechanisms,105.6
+D minus B: groundwater contact without surface flooding,34.2
+E. Published 100-year storm-surge map,15.6
+E within D (surge-map population also on wet ground),14.4
+Share of E inside D (%),92.3
+Share of D captured by E (%),13.6

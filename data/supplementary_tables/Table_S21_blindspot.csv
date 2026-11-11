@@ -1,0 +1,21 @@
+quantity,value
+Non-sewered residents outside wet ground with modelled water table within 1 m (millions),57.3
+  of which on ground more than 10 m above HAT (millions),28.7
+  Eastern and South-Eastern Asia (within 1 m),25.6
+  Sub-Saharan Africa (within 1 m),14.3
+  Central and Southern Asia (within 1 m),10.7
+  Latin America and the Caribbean (within 1 m),5.4
+  Northern Africa and Western Asia (within 1 m),0.7
+Non-sewered residents outside wet ground with modelled water table within 2 m (millions),73.7
+  of which on ground more than 10 m above HAT (millions),36.8
+  Eastern and South-Eastern Asia (within 2 m),32.8
+  Sub-Saharan Africa (within 2 m),17.2
+  Central and Southern Asia (within 2 m),15.4
+  Latin America and the Caribbean (within 2 m),6.7
+  Northern Africa and Western Asia (within 2 m),0.8
+"LMIC wells not flagged by the rule but with modelled water table within 1 m: n, share shallow (%)","865, 31"
+"Rule OR model within 1 m at LMIC wells: precision, detection (%)","47, 60"
+"LMIC wells not flagged by the rule but with modelled water table within 2 m: n, share shallow (%)","1117, 33"
+"Rule OR model within 2 m at LMIC wells: precision, detection (%)","46, 67"
+"Rule alone at LMIC wells: precision, detection (%)","62, 42"
+LMIC wells not flagged by the rule: share shallow (%) (comparison),27

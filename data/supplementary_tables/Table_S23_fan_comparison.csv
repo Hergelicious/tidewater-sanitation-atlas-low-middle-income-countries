@@ -1,0 +1,13 @@
+quantity,nonsewered_millions
+"Tidal rule, groundwater contact (HAT + 3 m)",93.1
+"Fan model, water table within 1 m",115.4
+"Fan model, within 3 m",171.3
+"Fan model, within 5 m",195.8
+Both methods agree (contact),78.8
+Tidal rule only,12.9
+Fan model only,92.4
+"Wet ground, central (tidal rule)",105.6
+Wet ground with Fan 1 m in place of tidal rule,146.9
+Wet ground with Fan 3 m in place of tidal rule,183.1
+Wet ground with Fan 5 m in place of tidal rule,201.7
+"Wet ground, tidal rule or Fan 3 m",189.8

@@ -1,0 +1,11 @@
+measure,estimate,lo,hi
+"sewer: change in share from no to all wet ground within 2 km, same city (percentage points)",-3.2,-9.8,3.4
+"nonsewer: change in share from no to all wet ground within 2 km, same city (percentage points)",3.2,-3.4,9.8
+"septic: change in share from no to all wet ground within 2 km, same city (percentage points)",-3.1,-10.9,4.6
+"pit: change in share from no to all wet ground within 2 km, same city (percentage points)",-2.8,-8.6,3.1
+"none: change in share from no to all wet ground within 2 km, same city (percentage points)",6.3,1.3,11.2
+"pit_none: change in share from no to all wet ground within 2 km, same city (percentage points)",3.5,-2.6,9.5
+"Ratio of exposure-weighted non-sewered share to the city-average share (pooled, residents)",1.008,0.992,1.023
+"Ratio of exposure-weighted pit latrine or no facility share to the city-average share (pooled, residents)",1.035,0.976,1.095
+"Ratio of exposure-weighted septic tank share to the city-average share (pooled, residents)",0.989,0.963,1.016
+households / clusters / cities,16149 / 626 / 100,,

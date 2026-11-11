@@ -1,0 +1,11 @@
+group,level,raw_wet_share_pct,within_city_diff_vs_ref_pp,ci_lo,ci_hi,reference
+urban wealth quintile,1,42.8,11.2,5.4,16.9,5
+urban wealth quintile,2,36.0,7.9,2.4,13.4,5
+urban wealth quintile,3,29.3,4.0,0.2,7.9,5
+urban wealth quintile,4,28.1,3.1,0.3,5.8,5
+urban wealth quintile,5,22.6,0.0,0.0,0.0,5
+toilet,none,35.0,18.2,6.9,29.5,sewer
+toilet,other,45.0,10.3,-0.6,21.1,sewer
+toilet,pit,21.0,2.3,-4.4,8.9,sewer
+toilet,septic,32.9,2.2,-4.0,8.4,sewer
+toilet,sewer,30.9,0.0,0.0,0.0,sewer

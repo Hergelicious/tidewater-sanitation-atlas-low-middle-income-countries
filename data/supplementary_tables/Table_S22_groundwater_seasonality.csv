@@ -1,0 +1,3 @@
+flag3,intermittent_n,never_n,persistent_n,intermittent_share,never_share,persistent_share
+flagged (HAT + 3 m),221,34,289,0.406,0.062,0.531
+not flagged,865,624,304,0.482,0.348,0.17

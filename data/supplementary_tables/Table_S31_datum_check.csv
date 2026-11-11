@@ -1,0 +1,5 @@
+tile,city,pixels,seeger_median,seeger_p10,seeger_p90,dtu22_median,diff_dtu_minus_seeger,interim_gll
+N06E003,Lagos,1687032,0.26,0.11,0.59,0.55,0.29,0.39
+S07E106,Jakarta,843980,0.95,0.78,1.12,1.13,0.18,0.68
+N14E120,Manila,738009,2.42,1.24,2.88,1.25,-1.17,1.04
+N22E091,Chattogram,4789476,0.8,0.62,0.97,1.21,0.39,0.29

@@ -1,0 +1,16 @@
+quantity,value
+"Present day, JRC baseline (1980-2014)",105.6
+"Present day, sea level and tide moved to 2020 (city-specific)",106.7
+Surface flooding only (2020 referenced),72.5
+Groundwater contact only (2020 referenced),34.2
+"2050 RCP8.5, 2050 population, tidal amplitude constant",133.0
+"2050 RCP8.5, 2050 population, tidal amplitude change included",132.7
+Change 2020 to 2050 (from 2020-referenced present),26.0
+"  population growth (2050 population, 2020 sea level)",22.6
+  relative sea-level rise and tide 2020 to 2050 (2020 population),2.8
+  interaction,0.5
+Exposure-weighted relative sea-level rise baseline to 2020 (m),0.081
+Range of city relative sea-level rise baseline to 2020 (m),0.055 to 0.120
+Exposure-weighted relative sea-level rise 2020 to 2050 (m),0.205
+Exposure-weighted change in highest astronomical tide to 2050 (m),-0.027
+Cities with tidal amplitude change > 0.1 m in absolute value,25

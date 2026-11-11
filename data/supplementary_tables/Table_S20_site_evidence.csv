@@ -1,0 +1,24 @@
+city,site,lat,lon,evidence,source,in_coastal_zone,wet_ground_pct,groundwater_contact_pct,median_elev_above_HAT_m,fan_wtd_m
+Dakar,Pikine,14.752,-17.396,Nitrate above 50 mg/L in 82% of sources; E. coli in about half; septic tanks dominant,Diaw 2020,True,1.0,1.0,7.2,2.7
+Dakar,Guediawaye,14.777,-17.39,As above,Diaw 2020,True,0.0,0.0,6.7,7.1
+Dakar,Golf Sud,14.772,-17.414,As above (validation grid),Diaw 2020,True,0.0,0.0,10.0,7.4
+Dakar,Medina Gounass,14.772,-17.382,As above (validation grid),Diaw 2020,True,0.0,0.0,6.6,6.0
+Dakar,Yeumbeul,14.776,-17.357,Water table < 2 m in dry season; nitrate 69 to 599 mg/L; leaking septic tanks,Pouye 2022,True,1.0,1.0,6.3,5.2
+Dakar,Keur Massar,14.782,-17.311,As above,Pouye 2022,True,1.0,1.0,5.9,4.3
+Dakar,Malika,14.801,-17.338,As above,Pouye 2022,True,36.0,36.0,3.8,2.3
+Dar es-Salaam,Kawe,-6.737,39.222,Nitrate 435 mg/L in shallow well; water table < 1 m near coast,Mtoni 2013,True,0.0,0.0,22.3,9.3
+Dar es-Salaam,Mbagala,-6.9,39.264,Nitrate up to 421 mg/L,Mtoni 2013 (citing earlier work),True,0.0,0.0,27.7,22.4
+Dar es-Salaam,Buguruni,-6.838,39.244,Nitrate up to 151 mg/L,Mtoni 2013 (citing earlier work),True,0.0,0.0,27.7,11.8
+Dar es-Salaam,Ilala,-6.829,39.263,Nitrate up to 151 mg/L,Mtoni 2013 (citing earlier work),True,0.0,0.0,19.2,8.4
+Dar es-Salaam,Keko,-6.838,39.276,Nitrate 74 to 108 mg/L,Mtoni 2013 (citing earlier work),True,4.0,4.0,12.9,12.0
+Cotonou,Ladji,6.391,2.431,Groundwater < 1 m; all wells positive for faecal coliforms; wells < 5 m from septic tanks,Totin 2008,True,100.0,100.0,0.6,0.6
+Cotonou,Vossa,6.389,2.416,As above,Totin 2008,True,84.0,84.0,1.2,0.6
+Cotonou,Ahouansori,6.388,2.421,As above,Totin 2008,True,94.0,94.0,1.3,0.5
+Cotonou,Djidje,6.383,2.431,As above,Totin 2008,True,100.0,100.0,1.3,1.0
+Cotonou,Hinde,6.379,2.433,As above,Totin 2008,True,100.0,100.0,1.6,1.0
+Cotonou,Yenawa,6.39,2.461,As above,Totin 2008,True,100.0,100.0,1.8,0.7
+Cotonou,Avotrou,6.379,2.472,As above,Totin 2008,True,91.0,91.0,1.8,0.7
+Cotonou,Enagnon,6.358,2.45,As above,Totin 2008,True,28.0,28.0,3.3,0.5
+Cotonou,Placodji,6.352,2.433,As above,Totin 2008,True,9.0,9.0,3.5,0.4
+Jakarta,Jakarta Utara (coastal north),-6.135,106.893,"Total coliforms above standard in 84% of wells, E. coli 55%",Khairunnisa 2025,True,100.0,100.0,0.4,0.9
+Jakarta,"Jakarta Selatan (inland south, contrast)",-6.284,106.805,"Total coliforms 53%, E. coli 24%",Khairunnisa 2025,False,0.0,0.0,28.6,2.7

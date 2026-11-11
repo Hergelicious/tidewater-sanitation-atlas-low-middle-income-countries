@@ -1,0 +1,30 @@
+scenario,nonsewered_residents_on_wet_ground_millions
+"Central estimate, 2020 (elevation referenced to mean sea level, 2020 sanitation)",105.6
+"Assumption range, low (elevation +0.45 m, sea level 5th percentile, threshold HAT + 2 m)",78.8
+"Assumption range, high (elevation -0.45 m, sea level 95th percentile, threshold HAT + 4 m)",127.8
+"Tidal only (coastal flood or groundwater contact), central",93.5
+"Tidal only, low bound",53.2
+"Tidal only, high bound",122.5
+River flood within coastal zone,50.1
+Elevation left on the EGM2008 geoid (no sea-level referencing),90.5
+Land a further 0.3 m lower,110.0
+Latest JMP sanitation (2024 for most countries),103.7
+Groundwater contact threshold HAT + 1 m,76.0
+"Potentially inadequate separation, threshold HAT + 5 m",130.7
+Potential groundwater contact only (potentially persistent),93.1
+100-year flooding only (episodic),12.5
+Coastal zone 5 km,76.7
+Coastal zone 20 km,134.1
+Hydrodynamic surge map as coastal flood layer,106.7
+127 estuary and delta cities removed,91.0
+Countries with imputed sewer share removed,105.6
+Coastal flood layer removed (overlap check),105.4
+Storm-surge map only,15.6
+"Storm-surge map only, estuary and delta cities removed",14.1
+"2050 RCP8.5, 2020 population",109.8
+"2050 RCP8.5, 2050 population, constant sewer share",133.0
+"2050 RCP8.5, 2050 population, low bound",100.7
+"2050 RCP8.5, 2050 population, high bound",160.3
+"2050 RCP8.5, 2050 population, sewer trend continued",117.1
+"2050 RCP8.5, sewer trend continued, low bound",89.1
+"2050 RCP8.5, sewer trend continued, high bound",140.5

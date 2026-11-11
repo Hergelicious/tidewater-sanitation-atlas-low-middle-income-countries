@@ -1,0 +1,9 @@
+model,exposure,children,clusters,cities,wet_effect_sewer_septic_pp,ci_lo,ci_hi,wet_effect_pit_none_pp,ci_lo_pit,ci_hi_pit,interaction_pp,ci_lo_int,ci_hi_int,p_interaction
+Primary: wet ground share within 2 km,wet_2km,4987,619,99,-3.016,-8.799,2.766,2.629,-8.3,13.558,5.646,-4.492,15.783,0.275
+Buffer 1 km,wet_1km,4987,619,99,-1.581,-6.211,3.048,4.876,-3.929,13.682,6.458,-2.502,15.417,0.158
+Buffer 5 km,wet_5km,4987,619,99,-4.934,-12.807,2.939,-2.43,-17.913,13.054,2.504,-10.848,15.856,0.713
+Groundwater contact share within 2 km,gw_2km,4987,619,99,-3.146,-8.766,2.473,3.012,-8.115,14.139,6.158,-4.191,16.508,0.243
+Wet ground share at least half (binary),wet2_bin,4987,619,99,-1.79,-5.888,2.308,0.966,-6.87,8.802,2.756,-4.805,10.317,0.475
+Excluding the Philippines,wet_2km,3804,385,55,-2.648,-11.003,5.706,2.765,-8.565,14.096,5.414,-5.33,16.157,0.323
+Excluding Bangladesh (no month effects),wet_2km,4518,580,88,-2.815,-8.656,3.025,4.352,-7.654,16.359,7.167,-4.368,18.703,0.223
+Without interview-month effects,wet_2km,4987,619,99,-2.62,-8.266,3.026,2.64,-7.883,13.164,5.26,-4.396,14.917,0.286

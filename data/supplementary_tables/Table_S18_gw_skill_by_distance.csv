@@ -1,0 +1,19 @@
+grp,band,wells,flagged_pct,obs_shallow_pct,PPV,sensitivity,specificity,PPV_5m
+Low and middle income (IGRAC + CGWL),0-1 km,566.0,37.46,44.7,0.66,0.55,0.77,0.84
+Low and middle income (IGRAC + CGWL),1-3 km,1018.0,32.61,42.73,0.63,0.48,0.79,0.79
+Low and middle income (IGRAC + CGWL),3-5 km,679.0,21.94,33.43,0.56,0.37,0.85,0.77
+Low and middle income (IGRAC + CGWL),5-10 km,1428.0,17.23,31.16,0.59,0.33,0.9,0.72
+Other high income,0-1 km,255.0,30.59,52.94,0.74,0.43,0.83,0.92
+Other high income,1-3 km,493.0,14.6,37.32,0.82,0.32,0.96,0.92
+Other high income,3-5 km,395.0,9.37,33.16,0.95,0.27,0.99,0.95
+Other high income,5-10 km,614.0,7.33,38.6,0.76,0.14,0.97,0.87
+United States,0-1 km,9941.0,43.97,55.04,0.81,0.65,0.81,0.93
+United States,1-3 km,16006.0,22.28,41.63,0.83,0.44,0.94,0.95
+United States,3-5 km,12244.0,16.89,32.0,0.72,0.38,0.93,0.93
+United States,5-10 km,20317.0,6.74,24.34,0.72,0.2,0.97,0.87
+Low and middle income (IGRAC + CGWL),estuarine,327.0,25.69,49.85,0.46,0.24,0.73,0.62
+Low and middle income (IGRAC + CGWL),open coast,3760.0,24.18,34.44,0.63,0.44,0.86,0.8
+Other high income,estuarine,306.0,11.76,21.24,0.53,0.29,0.93,0.72
+Other high income,open coast,1451.0,13.51,42.87,0.85,0.27,0.97,0.95
+United States,estuarine,5553.0,29.23,40.52,0.79,0.57,0.9,0.92
+United States,open coast,52955.0,18.41,35.4,0.79,0.41,0.94,0.93

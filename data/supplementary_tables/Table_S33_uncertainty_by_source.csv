@@ -1,0 +1,17 @@
+source,low,high
+Central estimate,105.6,105.6
+"Elevation error, sea-level percentiles and groundwater threshold combined (assumption range)",78.8,127.8
+"Datum: no sea-level referencing, or DTU22MDT offset +/-0.4 m",90.5,111.4
+Datum: test cities with the Seeger-Minderhoud product (% change),-5.6,4.4
+Datum: offset error of 1.2 m (largest test-tile discrepancy) applied to all cities,85.6,122.1
+"Present-day sea level and tide moved to 2020, city-specific",106.7,106.7
+Present-day sea level moved from the 1980-2014 baseline to 2020 (+0.08 m),105.6,106.8
+Groundwater threshold HAT + 1 m to HAT + 5 m,76.0,130.7
+"Groundwater model instead of tidal rule (Fan et al., 1 m to 3 m)",146.9,183.1
+Coastal zone 5 km to 20 km,76.7,134.1
+"Coastal flood layer: removed, or hydrodynamic map",105.4,106.7
+Sanitation shares 2024 instead of 2020,103.7,105.6
+"Soil-dependent users: no septic tank soil-dependent, or all septic tanks soil-dependent (no-facility users excluded)",32.1,102.0
+Soil-dependent users: half of septic tanks soil-dependent (no-facility users excluded),67.0,67.0
+"Soil-dependent residents, septic discharge from SFD reports (joint 90% interval)",57.1,84.3
+"Joint uncertainty of exposure (90% interval, Supplementary Table 31)",92.6,115.2

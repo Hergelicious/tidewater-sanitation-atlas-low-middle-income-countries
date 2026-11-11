@@ -1,0 +1,25 @@
+quantity,median,p05,p95,variant
+exposure,104.3,92.6,115.2,base: independent city errors
+surface,71.4,65.7,77.9,base: independent city errors
+groundwater_only,32.6,22.6,42.2,base: independent city errors
+soil_dependent,70.9,57.1,84.3,base: independent city errors
+soil_dependent_gw_only,22.0,14.5,29.6,base: independent city errors
+septic_soil_share,0.57,0.41,0.73,base: independent city errors
+groundwater_only / surface (%),45.0,31.0,60.0,base: independent city errors
+P(groundwater_only > 25 million),0.884,,,base: independent city errors
+exposure,104.4,92.0,115.4,datum errors shared within countries
+surface,71.5,65.1,78.5,datum errors shared within countries
+groundwater_only,32.6,22.6,42.5,datum errors shared within countries
+soil_dependent,70.9,57.8,84.6,datum errors shared within countries
+soil_dependent_gw_only,22.0,14.7,30.1,datum errors shared within countries
+septic_soil_share,0.57,0.41,0.73,datum errors shared within countries
+groundwater_only / surface (%),46.0,31.0,61.0,datum errors shared within countries
+P(groundwater_only > 25 million),0.884,,,datum errors shared within countries
+exposure,104.4,92.6,115.2,septic soil share fixed at country mean (no transfer uncertainty)
+surface,71.5,65.7,77.8,septic soil share fixed at country mean (no transfer uncertainty)
+groundwater_only,32.7,22.8,42.2,septic soil share fixed at country mean (no transfer uncertainty)
+soil_dependent,70.9,61.9,79.8,septic soil share fixed at country mean (no transfer uncertainty)
+soil_dependent_gw_only,22.1,15.4,28.9,septic soil share fixed at country mean (no transfer uncertainty)
+septic_soil_share,0.57,0.5,0.63,septic soil share fixed at country mean (no transfer uncertainty)
+groundwater_only / surface (%),46.0,32.0,60.0,septic soil share fixed at country mean (no transfer uncertainty)
+P(groundwater_only > 25 million),0.889,,,septic soil share fixed at country mean (no transfer uncertainty)

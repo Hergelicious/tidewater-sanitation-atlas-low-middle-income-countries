@@ -1,0 +1,18 @@
+quantity,value
+Mean of country means of septic soil share (SFD),0.583
+All non-sewered residents on wet ground,105.6
+  soil-dependent,71.9
+"  septic discharging to drains, water bodies or sealed",30.2
+  no facility,3.6
+Groundwater contact only (not reached by surface flooding),34.2
+  soil-dependent,23.1
+Surface flooding (coastal or river),71.5
+  soil-dependent,48.7
+"Leave one country out: septic soil share, range",0.54 to 0.64
+"Leave one country out: soil-dependent on wet ground, range (millions)",69.2 to 75.6
+"Leave one country out: soil-dependent, groundwater only, range (millions)",22.2 to 24.4
+Bangladesh omitted: septic soil share,0.61
+Bangladesh omitted: soil-dependent on wet ground (millions),73.5
+City median instead of country means: soil-dependent (millions),64.0
+No city-specific SFD shares (country mean everywhere): soil-dependent (millions),72.9
+Bounds: no septic soil-dependent / all septic soil-dependent (millions),32.1 to 102.0

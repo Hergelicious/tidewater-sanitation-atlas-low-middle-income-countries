@@ -1,0 +1,19 @@
+set,obs_threshold_m,method,n,flagged_pct,obs_shallow_pct,PPV,sensitivity,specificity
+Low and middle income (IGRAC),3,Tidal rule (HAT + 3 m),2789,26.425,37.182,0.601,0.427,0.832
+Low and middle income (IGRAC),3,"Fan model, depth <= 3 m",2789,50.197,37.182,0.449,0.606,0.559
+Low and middle income (IGRAC),3,Both agree,2789,19.72,37.182,0.58,0.308,0.868
+Low and middle income (IGRAC),5,Tidal rule (HAT + 3 m),2789,26.425,55.683,0.769,0.365,0.862
+Low and middle income (IGRAC),5,"Fan model, depth <= 5 m",2789,62.352,55.683,0.64,0.717,0.494
+Low and middle income (IGRAC),5,Both agree,2789,19.72,55.683,0.749,0.265,0.888
+Other high income,3,Tidal rule (HAT + 3 m),1693,12.463,38.512,0.782,0.253,0.956
+Other high income,3,"Fan model, depth <= 3 m",1693,55.227,38.512,0.447,0.641,0.503
+Other high income,3,Both agree,1693,10.986,38.512,0.78,0.222,0.961
+Other high income,5,Tidal rule (HAT + 3 m),1693,12.463,54.282,0.905,0.208,0.974
+Other high income,5,"Fan model, depth <= 5 m",1693,64.324,54.282,0.612,0.725,0.453
+Other high income,5,Both agree,1693,10.986,54.282,0.909,0.184,0.978
+United States,3,Tidal rule (HAT + 3 m),56668,18.042,35.108,0.788,0.405,0.941
+United States,3,"Fan model, depth <= 3 m",56668,47.132,35.108,0.455,0.611,0.604
+United States,3,Both agree,56668,12.564,35.108,0.818,0.293,0.965
+United States,5,Tidal rule (HAT + 3 m),56668,18.042,54.574,0.935,0.309,0.974
+United States,5,"Fan model, depth <= 5 m",56668,56.466,54.574,0.635,0.657,0.546
+United States,5,Both agree,56668,12.564,54.574,0.931,0.214,0.981

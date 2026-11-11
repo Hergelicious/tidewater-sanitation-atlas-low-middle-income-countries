@@ -1,0 +1,8 @@
+mechanism_combination,nonsewered_millions
+Coastal flood only,0.17
+Groundwater contact only,34.16
+River flood only,12.12
+Coastal flood and groundwater contact,21.15
+Groundwater contact and river flood,16.52
+Coastal and river flood,0.2
+All three mechanisms,21.3

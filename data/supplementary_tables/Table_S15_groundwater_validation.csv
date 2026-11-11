@@ -1,0 +1,17 @@
+set,obs_threshold_m,datum,n,obs_shallow_pct,median_depth_flagged,flagged_pct,PPV,sensitivity,specificity
+Low and middle income (IGRAC),3,EGM2008,2806,37.527,2.3,21.169,0.601,0.339,0.865
+Low and middle income (IGRAC),3,Mean sea level,2806,37.527,2.3,26.479,0.604,0.426,0.832
+Low and middle income (IGRAC),5,EGM2008,2806,55.952,2.3,21.169,0.763,0.289,0.886
+Low and middle income (IGRAC),5,Mean sea level,2806,55.952,2.3,26.479,0.771,0.365,0.862
+Other high income,3,EGM2008,1757,39.101,1.605,11.383,0.805,0.234,0.964
+Other high income,3,Mean sea level,1757,39.101,1.595,13.204,0.802,0.271,0.957
+Other high income,5,EGM2008,1757,54.809,1.605,11.383,0.905,0.188,0.976
+Other high income,5,Mean sea level,1757,54.809,1.595,13.204,0.914,0.22,0.975
+United States,3,EGM2008,58508,35.889,1.972,17.307,0.8,0.386,0.946
+United States,3,Mean sea level,58508,35.889,2.017,19.44,0.787,0.426,0.936
+United States,5,EGM2008,58508,55.199,1.972,17.307,0.924,0.29,0.971
+United States,5,Mean sea level,58508,55.199,2.017,19.44,0.929,0.327,0.969
+LMIC: India,3,EGM2008,2000,41.35,2.4,26.95,0.583,0.38,0.808
+LMIC: India,3,Mean sea level,2000,41.35,2.422,33.8,0.586,0.479,0.761
+LMIC: Excluding India,3,EGM2008,806,28.04,1.355,6.824,0.782,0.19,0.979
+LMIC: Excluding India,3,Mean sea level,806,28.04,1.37,8.313,0.791,0.235,0.976

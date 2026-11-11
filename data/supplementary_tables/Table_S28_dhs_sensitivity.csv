@@ -1,0 +1,13 @@
+analysis,interaction_pp,ci_lo,ci_hi,mde_80_pp
+"Primary model, SE clustered by survey cluster",5.65,-4.49,15.78,14.48
+"Primary model, SE clustered by city",5.65,-3.13,14.42,12.54
+"Displacement simulation (50 draws, 0.5 km around simulated true locations)",4.58,-0.06,8.38,
+"Poverty gradient, poorest two vs other quintiles, BD (39 clusters, 11 cities)",3.76,-5.92,13.44,
+"Poverty gradient, poorest two vs other quintiles, CI (39 clusters, 4 cities)",8.99,-11.58,29.56,
+"Poverty gradient, poorest two vs other quintiles, GH (39 clusters, 6 cities)",4.5,0.23,8.77,
+"Poverty gradient, poorest two vs other quintiles, HT (89 clusters, 10 cities)",12.55,4.59,20.52,
+"Poverty gradient, poorest two vs other quintiles, MZ (94 clusters, 10 cities)",-0.15,-2.47,2.18,
+"Poverty gradient, poorest two vs other quintiles, NG (46 clusters, 11 cities)",3.85,-5.67,13.38,
+"Poverty gradient, poorest two vs other quintiles, PH (236 clusters, 44 cities)",6.05,-1.01,13.1,
+"Poverty gradient, poorest two vs other quintiles, TZ (44 clusters, 4 cities)",0.5,-0.65,1.64,
+"Poverty gradient, all countries, SE clustered by city",6.82,3.4,10.24,

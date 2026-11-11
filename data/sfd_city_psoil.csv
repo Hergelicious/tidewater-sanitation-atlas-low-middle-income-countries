@@ -1,0 +1,22 @@
+atlas_rank,atlas_name,iso3,sfd_city,sfd_year,sfd_level,p_soil,p_drain,convention,url
+5,Dhaka,BGD,Dhaka,2016,desk-based (WEDC),0.0,0.9074074074074074,False,https://www.fsmtoolbox.com/assets/pdf/102._SFD_Dhaka_3-2609-7-1470298292.pdf
+8,Bangkok,THA,Nonthaburi (municipality within Bangkok urban agglomeration),2015,desk-based (Eawag/Sandec),0.7142857142857143,0.12244897959183673,False,https://www.eawag.ch/fileadmin/Domain1/Abteilungen/sandec/publikationen/EWM/SFD/SFD_Sandec_Nonthaburi.pdf
+11,Chennai,IND,Chennai,2019,SFD Lite,0.16363636363636364,0.0,True,https://www.susana.org/downloads?documentID=53718
+19,Đà Nẵng,VNM,Danang,2015,desk-based,0.8367983367983368,0.032224532224532226,False,https://www.eawag.ch/fileadmin/Domain1/Abteilungen/sandec/publikationen/EWM/SFD/SFD_Sandec_Danang.pdf
+24,Douala,CMR,Douala,2018,"SFD Lite (rapport bref, literature-based)",0.15789473684210525,0.3157894736842105,False,https://www.susana.org/_resources/documents/default/3-3466-7-1544172425.pdf
+25,Cotonou,BEN,"Grand Cotonou (Cotonou, Abomey-Calavi, Seme-Podji, Porto-Novo)",2022 (data 2016),SFD Lite,0.38164251207729466,0.0,False,https://susana.org/_resources/documents/default/3-5309-7-1717492858.pdf
+51,Barishal,BGD,Barishal City Corporation,2022,SFD Lite,0.45959595959595956,0.4848484848484848,False,https://susana.org/_resources/documents/default/3-5105-7-1666779165.pdf
+53,Bhola,BGD,Bhola Municipality,2022,SFD Lite,0.41347905282331504,0.47723132969034604,False,https://susana.org/_resources/documents/default/3-5117-7-1668610833.pdf
+55,Chandpur,BGD,Chandpur Municipality,2022,SFD Lite,0.18834951456310678,0.7398058252427184,False,https://susana.org/_resources/documents/default/3-5067-7-1663919966.pdf
+105,Ramu,BGD,Cox's Bazar Municipality,2023,SFD level 1 (Lite),0.09058614564831259,0.8259325044404973,False,https://susana.org/_resources/documents/default/3-5216-7-1697094229.pdf
+127,Shariatpur,BGD,Shariatpur Municipality,2021,SFD Lite,0.4896907216494846,0.2783505154639176,False,https://susana.org/_resources/documents/default/3-4576-7-1641218082.pdf
+139,Cap-Haitien,HTI,Cap-Haitien,2020,comprehensive (level 3),1.0,0.0,False,https://susana.org/_resources/documents/default/3-4278-7-1619601305.pdf
+154,Durgachak,IND,Haldia,2020,SFD Lite (CSE),0.5636363636363636,0.43636363636363634,False,https://www.susana.org/_resources/documents/default/3-3981-7-1607525811.pdf
+173,Dar es-Salaam,TZA,Dar es Salaam,2015,not stated (field-based; Eawag/Sandec),0.5172413793103449,0.3793103448275862,False,https://www.eawag.ch/fileadmin/Domain1/Abteilungen/sandec/publikationen/EWM/SFD/SFD_Sandec_Dar_es_Salaam.pdf
+175,Barguna,BGD,Barguna Municipality,2022,SFD Lite,0.3548387096774193,0.48847926267281105,False,https://susana.org/_resources/documents/default/3-5104-7-1666778136.pdf
+186,Banshkhali,BGD,Banshkhali Municipality,2023,SFD Lite,0.36065573770491804,0.45901639344262296,False,https://susana.org/downloads?documentID=56063
+393,Malumghat Bazar,BGD,Chakaria Municipality,2023,SFD Lite,0.49729729729729727,0.4027027027027027,False,https://susana.org/downloads?documentID=56055
+478,Kannur,IND,Kannur,2017,comprehensive,1.0,0.0,False,https://susana.org/_resources/documents/default/3-3654-7-1564388991.pdf
+569,Lima,PER,Lima,2016,desk-based,0.0,0.0,True,https://susana.org/_resources/documents/default/3-2608-7-1470296394.pdf
+869,Bilwi,NIC,Bilwi (Puerto Cabezas),2018,intermediate,1.0,0.0,False,https://www.susana.org/_resources/documents/default/3-3502-7-1544688880.pdf
+888,Durban,ZAF,Durban (eThekwini Municipality),2016,field-based (final; Eawag/Sandec review),0.9166666666666666,0.0,False,https://www.susana.org/downloads?documentID=51015
